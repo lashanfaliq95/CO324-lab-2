@@ -1,13 +1,5 @@
-/*
-1.http:   //www.ce.pdn.ac.lk  /index.php   ?
-scheme    host name          path         query string
-2.URl points to whats know as a resourse.
-3.http response
-response code{}
-headers{contenty type,content length}
-response body{}
-*/
 
+/*urls contents are jumbled up in between eachother and there is no proper order of the urls */
 
 import java.net.*;
 import java.io.*;
